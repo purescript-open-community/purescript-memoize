@@ -1,4 +1,4 @@
-{ name = "memoize"
+{ name = "open-memoize"
 , dependencies =
   [ "console"
   , "effect"
