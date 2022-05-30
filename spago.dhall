@@ -2,7 +2,6 @@
 , dependencies =
   [ "console"
   , "effect"
-  , "psci-support"
   , "strings"
   , "lists"
   , "either"
