@@ -1,17 +1,15 @@
-# purescript-memoize
+# purescript-open-memoize
 
 Type classes for creating memoized functions.
 
+[![Latest release](http://img.shields.io/github/release/purescript-node/purescript-open-memoize.svg)](https://github.com/purescript-node/purescript-open-memoize/releases)
+[![Build status](https://github.com/purescript-node/purescript-open-memoize/workflows/CI/badge.svg?branch=master)](https://github.com/purescript-node/purescript-open-memoize/actions?query=workflow%3ACI+branch%3Amaster)
+[![Pursuit](https://pursuit.purescript.org/packages/purescript-open-memoize/badge)](https://pursuit.purescript.org/packages/purescript-open-memoize)
+
 ## Building
 
-This module can be added to your project using Bower.
-
-To work on this project, use `pulp`:
-
 ```text
-$ pulp build
-
-$ pulp test
+$ npm run clean && npm run update-docs && npm run format && npm run build && npm run test
 ```
 
 ## Example
