@@ -3,3 +3,8 @@ bower_components/
 output/
 .psc-package
 .psc-ide-port
+.purs-repl
+
+generated-docs/html/*
+generated-docs/md/*
+!generated-docs/md/Data.Function.Memoize.md
