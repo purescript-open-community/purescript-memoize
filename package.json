@@ -3,7 +3,7 @@
   "scripts": {
     "clean": "rimraf output && rimraf .spago",
     "build": "spago build --censor-stats --strict --pedantic-packages --ensure-ranges",
-    "format": "purs-tidy format-in-place src/**/*.purs",
+    "format": "purs-tidy format-in-place src/**/*.purs test/**/*.purs",
     "test": "spago test",
     "update-docs": "spago docs --format markdown"
   },
