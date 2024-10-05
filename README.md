@@ -6,6 +6,16 @@ Type classes for creating memoized functions.
 [![Build status](https://github.com/purescript-node/purescript-open-memoize/workflows/CI/badge.svg?branch=master)](https://github.com/purescript-node/purescript-open-memoize/actions?query=workflow%3ACI+branch%3Amaster)
 [![Pursuit](https://pursuit.purescript.org/packages/purescript-open-memoize/badge)](https://pursuit.purescript.org/packages/purescript-open-memoize)
 
+## Installation
+
+```
+spago install open-memoize
+```
+
+## Documentation
+
+Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-open-memoize).
+
 ## Building
 
 ```text
